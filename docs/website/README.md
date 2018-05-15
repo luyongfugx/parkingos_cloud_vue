@@ -67,3 +67,10 @@ others: [
   },
 ],
 ```
+运行 :
+
+```js
+npm run build
+```
+提交git就可以了
+
